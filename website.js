@@ -1,0 +1,1 @@
+const webhookUrl = 'https://discord.com/api/webhooks/1396799423333273690/LesqX1c0LT1NT4-vFAgU8p-vKrHjs1kXSOVQ2-ZCF0VN9vvbYDcDdc00Chyv-70Dreo0'; // Replace with your Discord webhook URL
